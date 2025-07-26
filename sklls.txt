@@ -1,0 +1,7 @@
+Git,
+Docker,
+Javascript+typescript,
+Playwright,
+WebdriverIO,
+CI/CD,
+Resume.
